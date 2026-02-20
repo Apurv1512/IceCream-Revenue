@@ -63,5 +63,4 @@ These visualizations help understand the relationship between variables before t
 
 ### 1️⃣ Clone the Repository
 ```bash
-[git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name](https://github.com/Apurv1512/IceCream-Revenue.git)
+https://github.com/Apurv1512/IceCream-Revenue.git
